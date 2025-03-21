@@ -25,13 +25,17 @@ Evaluate the candidate's proficiency in UI design implementation, state manageme
 - Validate candidate's skill in translating designs into Flutter UI.
 
 **Design Image:**
-![Login Mockup](https://via.placeholder.com/400x600.png?text=Login+Screen+Design)
+
+![image](https://github.com/user-attachments/assets/c2a413e3-c067-4beb-9c65-88753620dd51)
+
 
 **Elements:**
 - Logo/Image
 - Username field
 - Password field
 - Login Button
+- Social Buttons
+- Login/Sign up Tab
 - Simple Navigation (no authentication logic)
 
 ---
