@@ -19,34 +19,9 @@ Evaluate the candidate's proficiency in UI design implementation, state manageme
 ---
 
 ### Test Components:
-
-### 1) Login Page Implementation (Design Mimicry)
-- Design mock-up provided below must be accurately recreated.
-- Validate candidate's skill in translating designs into Flutter UI.
-
-**Design Image:**
-
-![image](https://github.com/user-attachments/assets/c2a413e3-c067-4beb-9c65-88753620dd51)
-
-
-**Elements:**
-- Logo/Image
-- Username field
-- Password field
-- Login Button
-- Social Buttons
-- Login/Sign up Tab
-- Simple Navigation (no authentication logic)
-
 ---
 
-### 2) Navigation to Home Screen
-- Implement basic navigation from the login button click to the Home screen.
-- No API call required at login.
-
----
-
-### 3) Home Screen with Infinite Scroll & API Integration
+### 1) Home Screen with Infinite Scroll & API Integration
 
 **Requirements:**
 - Fetch and display dog images from:
@@ -61,6 +36,11 @@ Evaluate the candidate's proficiency in UI design implementation, state manageme
 - Grid or List-based infinite scrolling layout
 - Smooth scroll experience
 - Proper error handling (show simple messages if API fails)
+
+**Emulate the following design to the best of your ability:**
+Reference Image[https://cdn.dribbble.com/userupload/29834948/file/original-2f218a13f3c104dd45ded93d16836462.png?resize=1598x1188&vertical=center]
+
+You will be judged on how closesly you are able to replicate the design provided.
 
 ---
 
